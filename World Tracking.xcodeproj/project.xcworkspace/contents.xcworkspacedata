@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:World Tracking.xcodeproj">
+      location = "group:/Users/joseph/Documents/GitHub/Worldtracking/F5BWorldTracking.swift">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
